@@ -1,0 +1,11 @@
+http://localhost/student-api/index.php?id=2
+
+
+
+
+{
+    "name": "Ahmad Aliweew",
+    "email": "ahmad@exadsmple.com",
+    "course": "PHP & MySQL",
+    "password": "Ahmad123!"
+}
